@@ -1,1 +1,61 @@
-<link rel="stylesheet" href="style.css">
+aside section h4 {
+  color:black;
+  text-decoration:underline;
+  font-family:Helvetica;
+}
+
+.blue {
+  color:#00699E;
+}
+
+.teal {
+  color:#009C9C;
+} 
+
+aside section p {
+  color:#000000;
+}
+
+aside section li {
+  color:#000000;
+}
+
+aside section li {
+  font-size:14px;
+}
+
+aside section p {
+  text-align:center;
+}
+
+.name {
+  text-align:center;
+}
+  
+body {
+  background-color:#70CFFF;
+}
+
+section {
+  border:3px solid #000000;
+  border-radius:2%;
+  background-color:#A6E1FF;
+}
+
+.top {
+  border:3px solid #000000;
+  border-radius:2%;
+  background-color:#A6E1FF;
+}
+
+aside section h4 {
+  text-align:center;
+}
+
+aside section ul{
+  text-align:center;
+}
+
+aside {
+  width:500px;
+}
